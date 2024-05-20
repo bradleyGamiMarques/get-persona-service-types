@@ -7,7 +7,7 @@ type GetP3RPersonaByNameResponse struct {
 	Endurance    int    `json:"endurance"`
 	Luck         int    `json:"luck"`
 	Magic        int    `json:"magic"`
-	PersonaName  string `json:"personaname"`
-	PersonaLevel int    `json:"personalevel"`
+	PersonaName  string `json:"personaName"`
+	PersonaLevel int    `json:"personaLevel"`
 	Strength     int    `json:"strength"`
 }
